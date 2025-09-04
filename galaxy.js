@@ -94,6 +94,7 @@ function getHeartImagesFromURL() {
 const heartImages = getHeartImagesFromURL() || [];
 // Add more images manually
 heartImages.push("https://res.cloudinary.com/diqseuweg/image/upload/v1755850045/IMG_20250820_183001_udgxle.jpg");
+heartImages.push("https://res.cloudinary.com/diqseuweg/image/upload/v1755850045/IMG_20250820_182950_webtev.jpg");
 heartImages.push("https://res.cloudinary.com/diqseuweg/image/upload/v1755850044/Messenger_creation_6ED02110-2E3B-4225-91E2-291A3C1F65CB_bgfmnp.jpg");
 document[_0x207b43(0x1bb)]("DOMContentLoaded", () => {
     const _0x41551e = _0x207b43;
@@ -1130,3 +1131,4 @@ window[_0x207b43(0x1bb)](_0x207b43(0x1eb), checkOrientation),
     window[_0x207b43(0x1bb)](_0x207b43(0x240), () => {
         setTimeout(checkOrientation, 0xc8);
     });
+
