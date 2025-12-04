@@ -93,9 +93,9 @@ function getHeartImagesFromURL() {
 //update new
 const heartImages = getHeartImagesFromURL() || [];
 // Add more images manually
-heartImages.push("https://res.cloudinary.com/diqseuweg/image/upload/v1755850045/IMG_20250820_183001_udgxle.jpg");
-heartImages.push("https://res.cloudinary.com/diqseuweg/image/upload/v1755850045/IMG_20250820_182950_webtev.jpg");
-heartImages.push("https://res.cloudinary.com/diqseuweg/image/upload/v1755850044/Messenger_creation_6ED02110-2E3B-4225-91E2-291A3C1F65CB_bgfmnp.jpg");
+heartImages.push("https://res.cloudinary.com/diqseuweg/image/upload/v1764824516/IMG_20240401_145758_294_w0gxnn.jpg");
+heartImages.push("https://res.cloudinary.com/diqseuweg/image/upload/v1764824516/IMG_20240401_145758_294_w0gxnn.jpg");
+heartImages.push("https://res.cloudinary.com/diqseuweg/image/upload/v1764824304/IMG_20240314_231857_486_tthprf.jpg");
 document[_0x207b43(0x1bb)]("DOMContentLoaded", () => {
     const _0x41551e = _0x207b43;
     if (getHeartImagesFromURL()) {
@@ -1131,4 +1131,5 @@ window[_0x207b43(0x1bb)](_0x207b43(0x1eb), checkOrientation),
     window[_0x207b43(0x1bb)](_0x207b43(0x240), () => {
         setTimeout(checkOrientation, 0xc8);
     });
+
 
